@@ -23,7 +23,7 @@ const routes: Routes = [{
 },
 {
   path:"",
-  redirectTo: "/homepage",
+  redirectTo: "/login",
   pathMatch: "full"
 }
 
